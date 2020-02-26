@@ -1,0 +1,3 @@
+language = "c"
+  run = "cc challenge.c -o swap"
+  

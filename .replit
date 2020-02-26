@@ -1,3 +1,3 @@
 language = "c"
-  run = "cc challenge.c -o swap"
+  run = "clang-7 -pthread -lm -o swap challenge.c"
   
